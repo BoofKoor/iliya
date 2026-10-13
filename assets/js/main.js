@@ -196,6 +196,9 @@
       flash(requestSelect);
     });
   });
+  // links from other pages, e.g. index.html?request=sell#contact from the price board
+  const requested = new URLSearchParams(location.search).get('request');
+  if (requestSelect && requested && $(`option[value="${CSS.escape(requested)}"]`, requestSelect)) requestSelect.value = requested;
 
   const phoneOk = (value) => {
     const digits = toEn(value).replace(/[\s\-()]/g, '');
