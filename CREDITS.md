@@ -5,7 +5,7 @@
 | Font | Authors | License file |
 | --- | --- | --- |
 | Vazirmatn | The Vazirmatn Project Authors (Saber Rastikerdar) | `assets/fonts/OFL-vazirmatn.txt` |
-| Markazi Text | The Markazi Text Project Authors (Borna Izadpanah) | `assets/fonts/OFL-markazi-text.txt` |
+| Noto Nastaliq Urdu (display titles) | The Noto Project Authors | `assets/fonts/OFL-noto-nastaliq-urdu.txt` |
 | Cormorant Garamond | The Cormorant Project Authors (Christian Thalmann) | `assets/fonts/OFL-cormorant-garamond.txt` |
 
 ## Icons

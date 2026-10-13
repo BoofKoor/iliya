@@ -49,7 +49,7 @@
 index.html              صفحه‌ی اصلی
 assets/css/style.css    استایل‌ها (رنگ‌ها و فونت‌ها در ابتدای فایل تعریف شده‌اند)
 assets/js/main.js       تعامل‌ها: منو، انیمیشن‌ها، شمارنده‌ها، فرم
-assets/fonts/           فونت‌های وزیرمتن، مرکزی و کورمورانت (مجوز OFL)
+assets/fonts/           فونت‌های وزیرمتن، نستعلیق نوتو و کورمورانت (مجوز OFL)
 assets/img/             لوگو، تصویرسازی‌های پسته، الگوی هندسی و نقشه
 ```
 
@@ -76,6 +76,6 @@ assets/img/             لوگو، تصویرسازی‌های پسته، الگ
 
 ## اعتبار منابع
 
-فونت‌ها (Vazirmatn، Markazi Text، Cormorant Garamond)، آیکون‌ها (Lucide، Simple Icons) و داده‌ی نقشه (Natural Earth) همگی متن‌باز یا آزادند. جزئیات در [CREDITS.md](CREDITS.md).
+فونت‌ها (Vazirmatn، Noto Nastaliq Urdu، Cormorant Garamond)، آیکون‌ها (Lucide، Simple Icons) و داده‌ی نقشه (Natural Earth) همگی متن‌باز یا آزادند. جزئیات در [CREDITS.md](CREDITS.md).
 
 </div>
