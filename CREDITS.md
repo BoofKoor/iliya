@@ -5,8 +5,11 @@
 | Font | Authors | License file |
 | --- | --- | --- |
 | Vazirmatn | The Vazirmatn Project Authors (Saber Rastikerdar) | `assets/fonts/OFL-vazirmatn.txt` |
-| Noto Nastaliq Urdu (display titles) | The Noto Project Authors | `assets/fonts/OFL-noto-nastaliq-urdu.txt` |
 | Cormorant Garamond | The Cormorant Project Authors (Christian Thalmann) | `assets/fonts/OFL-cormorant-garamond.txt` |
+
+## Commercial font
+
+- **IRANYekanX** (headings) — © fontiran.com (Moslem Ebrahimi), proprietary. Not covered by any open license: a web license must be registered at fontiran.com before the site is published, and its license code written into `assets/fonts/IRANYekanX-FontLicense.txt`, which has to stay next to the font file.
 
 ## Icons
 
